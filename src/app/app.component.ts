@@ -10,7 +10,7 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 import { Storage } from '@ionic/storage';
 
 import { UserData } from './providers/user-data';
-
+//pruebacommit
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
